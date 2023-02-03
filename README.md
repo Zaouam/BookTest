@@ -9,5 +9,5 @@ SCREENSHOTS:<br>
 
 
 <br>
-2-ShoppingCart<br>
+2-ShoppingCart <br>
 ![Capture2](https://user-images.githubusercontent.com/67608566/216654932-c1726003-823d-42b5-8a0e-4be6a934796f.PNG)
